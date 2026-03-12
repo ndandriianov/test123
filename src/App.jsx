@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on аыымсывм  and React \ аики to fkjdfklbvd
+        Click on vdvdvd  and React \ аики to fkjdfklbvd
       </p>
     </>
   )
