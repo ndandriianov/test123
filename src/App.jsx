@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on vdvdsdbsуыпыупfvfуbsвмывмывмыbvsevd  and React \ аики to fkjdfklbvd
+        Click on vdvdsdbsуыпыfeveупfvfуbsвмывмывмыbvsevd  and React \ аики to fkjdfklbvd
       </p>
     </>
   )
